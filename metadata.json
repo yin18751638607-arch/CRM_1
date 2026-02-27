@@ -1,0 +1,5 @@
+{
+  "name": "Nexus CRM 系统",
+  "description": "一个全面的 CRM 系统，用于管理线索、客户、商机、合同和市场活动，具有强大的基于角色的访问控制。",
+  "requestFramePermissions": []
+}
